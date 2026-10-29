@@ -1,0 +1,20 @@
+{
+  "name": "raffinement-et-vision",
+  "owner": {
+    "name": "À COMPLÉTER"
+  },
+  "metadata": {
+    "description": "Plugins de raffinement et de clarification de besoins pour équipes Agile.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "raffinement-et-vision",
+      "source": "./",
+      "description": "Raffinement de billets, stories, anomalies et requis : questionne les objectifs et les critères de succès, confronte les sources et révèle les lacunes, sans imposer de solution technique.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["agile", "raffinement", "refinement", "backlog", "user-story", "coach-agile"]
+    }
+  ]
+}
