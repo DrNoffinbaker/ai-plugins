@@ -12,7 +12,7 @@
       "name": "raffinement-et-vision",
       "source": "./raffinement-et-vision",
       "description": "Raffinement de billets, stories, anomalies et requis : questionne les objectifs et les critères de succès, confronte les sources et révèle les lacunes, sans imposer de solution technique.",
-      "version": "0.1.9",
+      "version": "0.1.10",
       "category": "productivity",
       "keywords": ["agile", "raffinement", "refinement", "backlog", "user-story", "coach-agile"]
     }
