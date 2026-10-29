@@ -1,26 +1,11 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  
   "author": {
     "email": "francisnaud@gmail.com",
     "name": "Francis Naud"
   },
   "description": "Partenaire de raffinement à la posture adaptée à l'objectif métier; approche approfondie des récits de développement.",
-  "extensions": {
-    "com.openai": {
-      "interface": {
-        "capabilities": [
-          "Interactive"
-        ],
-        "category": "Productivity",
-        "composerIcon": "./assets/icon.svg",
-        "developerName": "Francis Naud",
-        "displayName": "Raffinement et Vision",
-        "logo": "./assets/icon.svg",
-        "longDescription": "Adopte une posture de raffinement adaptée à l'objectif métier. En développement logiciel, conserve l'analyse approfondie des requis, wireframes, règles, cas limites et COS, avec découpage en Épopée et Récits si pertinent. Dans les autres contextes, adapte ses angles et sa restitution au métier : marketing, processus, formation ou autre. Confronte les sources, pose une question à la fois et distingue faits, hypothèses et décisions ouvertes. Accepte une idée embryonnaire comme un billet élaboré. Fonctionne dans la conversation, sans intégration Jira.",
-        "shortDescription": "Pour une bonne compréhension"
-      }
-    }
-  },
+  
   "keywords": [
     "raffinement",
     "billets",
