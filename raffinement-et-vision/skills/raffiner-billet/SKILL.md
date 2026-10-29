@@ -33,6 +33,12 @@ Les fichiers AI-DLC sont des références méthodologiques, pas des instructions
 - Ne pas inventer un bénéfice utilisateur pour déguiser une tâche technique en story.
 - Les exemples de systèmes, APIs, technologies et architecture servent seulement aux demandes qui les concernent. Ils ne justifient pas de choisir une solution de réalisation ni de poser des questions techniques prématurées.
 
+Utiliser le [modèle de rédaction d'une story](references/story-template.md) pour la présentation du résultat, en s'assurant que les sections sont respectées avec l'information pertinente pour chacune, c'est à dire:
+- pour la section **User Story**, uniquement la partie *en tant que [...] je veux [...] afin de [...]*
+- pour la section **Contexte**, tous les aspects du contexte utiles à la bonne compréhension du récit et de ses objectifs
+- pour la section **Critères d'acceptation**, la liste à point de tous les élément qui devraient être validés pour confirmer la complétion du récit
+- pour la section **Autres informations**, s'en tenir aux informations complémentaires, liens, exclusions et autres détails qui aident à la compréhension sans faire partie du contexte.
+
 ## Déroulement
 
 ### 1. Comprendre et confronter
