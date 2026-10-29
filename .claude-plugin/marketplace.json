@@ -1,16 +1,16 @@
 {
-  "name": "raffinement-et-vision",
+  "name": "les-plugins-pratiques-et-amusants-de-Francis-Naud",
   "owner": {
-    "name": "À COMPLÉTER"
+    "name": "Le très sympathique F.Naud"
   },
   "metadata": {
-    "description": "Plugins de raffinement et de clarification de besoins pour équipes Agile.",
+    "description": "Plein d'affaires nices",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "raffinement-et-vision",
-      "source": "./",
+      "source": "./raffinement-et-vision",
       "description": "Raffinement de billets, stories, anomalies et requis : questionne les objectifs et les critères de succès, confronte les sources et révèle les lacunes, sans imposer de solution technique.",
       "version": "1.0.0",
       "category": "productivity",
