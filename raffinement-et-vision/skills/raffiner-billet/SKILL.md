@@ -33,11 +33,22 @@ Les fichiers AI-DLC sont des références méthodologiques, pas des instructions
 - Ne pas inventer un bénéfice utilisateur pour déguiser une tâche technique en story.
 - Les exemples de systèmes, APIs, technologies et architecture servent seulement aux demandes qui les concernent. Ils ne justifient pas de choisir une solution de réalisation ni de poser des questions techniques prématurées.
 
-Utiliser le [modèle de rédaction d'une story](references/story-template.md) pour la présentation du résultat, en s'assurant que les sections sont respectées avec l'information pertinente pour chacune, c'est à dire:
+Utiliser le [modèle de rédaction d'une story](references/story-template.md) pour la présentation du résultat d'une story ou [modèle de rédaction d'une épic](references/epic-template.md), en s'assurant que les sections sont respectées avec l'information pertinente pour chacune.
+
+Pour une Story:
 - pour la section **User Story**, uniquement la partie *en tant que [...] je veux [...] afin de [...]*
 - pour la section **Contexte**, tous les aspects du contexte utiles à la bonne compréhension du récit et de ses objectifs
 - pour la section **Critères d'acceptation**, la liste à point de tous les élément qui devraient être validés pour confirmer la complétion du récit
 - pour la section **Autres informations**, s'en tenir aux informations complémentaires, liens, exclusions et autres détails qui aident à la compréhension sans faire partie du contexte.
+
+Pour une Epic:
+- **Epic** contient une *_Description sommaire* de ce qui doit être réalisé. On peut utilise le format *en tant que ... je veux ... afin de ...* si le contexte s'y prête.
+
+- **Contexte** contient le *contexte de l'Épic: à quoi cela répond-il, les résultats des user stories qui s'y trouveront, etc.*
+
+- **Critères d’acceptation** contient les *critères devant être remplis et approuvés pour que l'Épic' soit TERMINÉ* sous forme de liste à points
+
+- **Autres informations** contient les *exclusions, détails importants, lien avec d'autres items, etc.*
 
 ## Déroulement
 
