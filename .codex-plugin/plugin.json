@@ -1,0 +1,32 @@
+{
+  "interface": {
+    "capabilities": [
+      "Interactive"
+    ],
+    "category": "Productivity",
+    "composerIcon": "./assets/icon.svg",
+    "developerName": "Francis Naud",
+    "displayName": "Raffinement et Vision",
+    "logo": "./assets/icon.svg",
+    "longDescription": "Adopte une posture de raffinement adapt\u00e9e \u00e0 l'objectif m\u00e9tier. En d\u00e9veloppement logiciel, conserve l'analyse approfondie des requis, wireframes, r\u00e8gles, cas limites et COS, avec d\u00e9coupage en \u00c9pop\u00e9e et R\u00e9cits si pertinent. Dans les autres contextes, adapte ses angles et sa restitution au m\u00e9tier : marketing, processus, formation ou autre. Confronte les sources, pose une question \u00e0 la fois et distingue faits, hypoth\u00e8ses et d\u00e9cisions ouvertes. Accepte une id\u00e9e embryonnaire comme un billet \u00e9labor\u00e9. Fonctionne dans la conversation, sans int\u00e9gration Jira.",
+    "shortDescription": "Pour une bonne compr\u00e9hension",
+    "defaultPrompt": null
+  },
+  "name": "raffinement-et-vision",
+  "version": "0.1.8",
+  "description": "Partenaire de raffinement \u00e0 la posture adapt\u00e9e \u00e0 l'objectif m\u00e9tier; approche approfondie des r\u00e9cits de d\u00e9veloppement.",
+  "author": {
+    "name": "Francis Naud",
+    "email": "francisnaud@gmail.com"
+  },
+  "keywords": [
+    "raffinement",
+    "billets",
+    "agile",
+    "COS",
+    "AI-DLC",
+    "user story",
+    "d\u00e9coupage"
+  ],
+  "skills": "./skills"
+}
